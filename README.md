@@ -7,7 +7,17 @@ This project analyses drink and drug driving offences in New Zealand to explore 
 
 The objective of this analysis is to investigate trends in drink and drug driving offences across New Zealand over the past twenty years. In addition to analysing long-term trends, this project explores how outcomes vary across regions and how conviction rates have changed over time.
 
-  ## TOOLS USED
+## DATA
+
+>  Data was sourced from the Aotearoa Data Explorer (Stats NZ) and contains publicly available crime statistics.
+
+The dataset includes court outcomes for drink/drug driving offences:
+- 'Convicted': only charges finalised in the District or High Court can result in a person being convicted.
+- 'Other proved': these charges are not recorded as convictions, and include charges where:
+- 'Not proved': includes the person being found not guilty and where the charge was dismissed, discharged, withdrawn, or other not proved outcomes
+- 'Other': includes outcomes such as where there was a stay of proceeding, the person was found unfit to stand trial, the person was found not guilty by reason of insanity and an order was made.
+
+## TOOLS USED
   
 - Excel
 - Power Query
@@ -22,16 +32,6 @@ The objective of this analysis is to investigate trends in drink and drug drivin
 - Dashboard Development
 - Data Visualisation
 
-## DATA
-
->  Data was sourced from the Aotearoa Data Explorer (Stats NZ) and contains publicly available crime statistics.
-
-The dataset includes court outcomes for drink/drug driving offences:
-- 'Convicted': only charges finalised in the District or High Court can result in a person being convicted.
-- 'Other proved': these charges are not recorded as convictions, and include charges where:
-- 'Not proved': includes the person being found not guilty and where the charge was dismissed, discharged, withdrawn, or other not proved outcomes
-- 'Other': includes outcomes such as where there was a stay of proceeding, the person was found unfit to stand trial, the person was found not guilty by reason of insanity and an order was made.
-
 ## PROJECT WORKFLOW
 
 1. Collected public crime data from Stats NZ Aotearoa Data Explorer.
@@ -39,6 +39,10 @@ The dataset includes court outcomes for drink/drug driving offences:
 3. Restructured the data into an analysis-ready format.
 4. Conducted exploratory data analysis using Pivot Tables.
 5. Built an interactive Excel dashboard to visualise trends.
+
+## DASHBOARD PREVIEW
+<img width="941" height="440" alt="CrimeDashboard" src="https://github.com/user-attachments/assets/28c2fe79-dcb1-418c-aa86-c6637de4a88c" />
+
 
 ## KEY FINDINGS
 
