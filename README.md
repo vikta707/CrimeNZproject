@@ -47,7 +47,10 @@ The dataset includes court outcomes for drink/drug driving offences:
 
 ## KEY FINDINGS
 
-- “Other proved” outcomes have increased significantly in the past decade.
+- “Other proved” outcomes have increased significantly in the past decade. This may indicate changes in court procedures or enforcement strategies
 - A noticeable dip in convictions occurred around 2020–2022, likely reflecting reduced court activity and mobility during the COVID-19 period.
-- Northland shows consistently higher conviction counts relative to other regions, indicating possible regional differences in enforcement or offence rates.
+- Auckland Region shows consistently higher conviction counts relative to other regions. Although this is expected as Auckland is the highest populated region in Auckland we may consider other factors such as road work and density.
+- Convicted outcomes have peaked around 2008/2009, years before and after this period reach a steady conivcted count.
+- Conviction rates are consistently high of around 90% which is expected
+  
    
