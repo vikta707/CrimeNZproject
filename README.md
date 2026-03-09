@@ -41,7 +41,8 @@ The dataset includes court outcomes for drink/drug driving offences:
 5. Built an interactive Excel dashboard to visualise trends.
 
 ## DASHBOARD PREVIEW
-<img width="941" height="440" alt="CrimeDashboard" src="https://github.com/user-attachments/assets/28c2fe79-dcb1-418c-aa86-c6637de4a88c" />
+<img width="740" height="558" alt="Screen Shot 2026-03-10 at 12 12 07 pm" src="https://github.com/user-attachments/assets/a0479c3f-e1b9-49c0-9298-916f80d9b303" />
+
 
 
 ## KEY FINDINGS
